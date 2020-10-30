@@ -5,7 +5,6 @@ Created on Sat Sep 19 20:50:40 2020
 
 @author: luis
 """
-
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
